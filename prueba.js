@@ -1,1 +1,4 @@
-//	sasas		//prueba de javascript
+//	prueba de cambios
+//utilizando javascript
+
+var x=0
