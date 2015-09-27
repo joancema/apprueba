@@ -4,5 +4,5 @@
 var x=0
 
 var y = function(){
-	console.log("prueba de hola mundo");
+	console.log("prueba de hola mundo");;
 }
